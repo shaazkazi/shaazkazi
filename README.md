@@ -8,6 +8,13 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/ImPavloh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&color=CA88DF&center=true&vCenter=true&width=333&lines=<%20ShaazKazi%20/%20>" alt="ShaazKazi" /></a> 
+</p>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@RideForCause" target="_blank"><img width="40px" alt="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

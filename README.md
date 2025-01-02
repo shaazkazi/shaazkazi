@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://www.youtube.com/@RideForCause" target="_blank"><img width="40px" alt="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/southnewska" target="_blank"><img width="40px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/shariqkazi" target="_blank"><img width="40px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
 </div>
 
 ###

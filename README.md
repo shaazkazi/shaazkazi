@@ -6,7 +6,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/ImPavloh">
+  <a href="https://github.com/ShaazKazi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&color=CA88DF&center=true&vCenter=true&width=333&lines=<%20ShaazKazi%20/%20>" alt="ShaazKazi" /></a> 
 </p>
 

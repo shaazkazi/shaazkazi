@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/@RideForCause" target="_blank">
+  <a href="https://www.youtube.com/@shariqkazi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-CA88DF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=0D1117" alt="YouTube" />
   </a>
   <a href="https://twitter.com/shariqkazi" target="_blank">

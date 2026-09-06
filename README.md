@@ -37,10 +37,6 @@ $ echo $STATUS
 
 <h3 align="center">📊 stats</h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShaazKazi&show_icons=true&theme=transparent&hide_border=true&title_color=CA88DF&icon_color=CA88DF&text_color=c9d1d9&bg_color=0D1117&ring_color=CA88DF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaazKazi&layout=compact&theme=transparent&hide_border=true&title_color=CA88DF&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaazKazi&theme=dark&hide_border=true&background=0D1117&stroke=CA88DF&ring=CA88DF&fire=CA88DF&currStreakLabel=CA88DF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />

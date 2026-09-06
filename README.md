@@ -42,9 +42,6 @@ $ echo $STATUS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaazKazi&theme=dark&hide_border=true&background=0D1117&stroke=CA88DF&ring=CA88DF&fire=CA88DF&currStreakLabel=CA88DF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaazKazi&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
 
 ---
 

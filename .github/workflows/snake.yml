@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ShaazKazi
           outputs: |
-            dist/github-snake.svg?color_snake=%23CA88DF&color_dots=%230D1117,%233C1361,%236A2C91,%239D5FD1,%23CA88DF
-            dist/github-snake-dark.svg?color_snake=%23CA88DF&color_dots=%230D1117,%233C1361,%236A2C91,%239D5FD1,%23CA88DF
+            dist/github-snake.svg?color_snake=%2339FF14&color_dots=%230D1117,%230B3D0B,%23146B14,%231FA31F,%2339FF14
+            dist/github-snake-dark.svg?color_snake=%2339FF14&color_dots=%230D1117,%230B3D0B,%23146B14,%231FA31F,%2339FF14
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
